@@ -1,0 +1,14 @@
+﻿  mysql_c.cpp
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(55,23): error C2374: 'p': nueva definición; inicialización múltiple
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(43): message : vea la declaración de 'p'
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(68,23): error C2374: 'p': nueva definición; inicialización múltiple
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(43): message : vea la declaración de 'p'
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(81,23): error C2374: 'p': nueva definición; inicialización múltiple
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(43): message : vea la declaración de 'p'
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(47,9): error C2360: la inicialización de 'p' se omite en la etiqueta 'case'
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(43): message : vea la declaración de 'p'
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(59,9): error C2360: la inicialización de 'p' se omite en la etiqueta 'case'
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(55): message : vea la declaración de 'p'
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(72,9): error C2360: la inicialización de 'p' se omite en la etiqueta 'case'
+C:\Users\rsolo\OneDrive\Desktop\C++ Mysql Proveedores\mysql_c\mysql_c\mysql_c.cpp(68): message : vea la declaración de 'p'
+  Proveedor.cpp
